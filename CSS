@@ -1,0 +1,115 @@
+body {
+	background-color: #000000;
+	
+}
+
+#pic {
+	width: 150px;
+	border-radius: 10px;
+	margin-top: 15px;
+}
+
+#name {
+	
+	color: #0000ff;
+	font-weight: bold;
+	font-family: arial;
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+#quote {
+	color: red;
+	font-weight: bold;
+}
+
+table.bio {
+	color: #FFDB00;
+	background-color: #0000ff;
+	text-align: left;
+	text-indent: relative;
+	width: 330px;
+	position: center;
+	margin-left: 10px;
+	font-weight: ;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 6px;
+	border-radius: 10px;
+	
+}
+
+#trans {
+	font-size: 25px;
+	
+}
+
+#container {
+	border-radius: 10px;
+	font-family: arial;
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	height: 100%;
+	background-color: #FFDB00;
+	text-align: center;
+	}
+	
+
+#FF {
+	
+	margin-left: 10px;
+}
+
+#bold {
+
+	font-weight: bold;
+}
+
+
+
+table.facts {
+	border: 1px solid;
+	color: #FFDB00;
+	width: 80%;
+	height: 350px;
+	background-color: #664c28;
+	margin-left: 35px;
+	margin-top: 25px;
+	margin-bottom: 5px;
+	border-collapse: collapse;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+table.facts th {
+	padding-left: 100px;
+}
+
+table.facts td {
+	border: 1px solid;
+	}
+	
+#link {
+	color: #0000ff;
+	width: 90%;
+	font-style: italic;
+	text-align: center;
+	margin-left: 15px;
+}
+
+#tribute-link {
+	
+}
+
+#gh {
+	color: red;
+}
+
+#me_p{
+	color: red;
+	font-style: italic;
+	width: 100%;
+	text-align: center;
+	margin-left: -6px;
+}
