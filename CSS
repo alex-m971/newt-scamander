@@ -13,7 +13,7 @@ body {
 
 #name {
 	
-	color: #0039a6;
+	color: #00356B;
 	font-weight: bold;
 	font-family: arial;
 	font-size: 20px;
@@ -27,7 +27,7 @@ body {
 
 table.bio {
 	color: #FFDB00;
-	background-color: #011F5B;
+	background-color: #00356B;
 	text-align: left;
 	text-indent: relative;
 	width: 330px;
